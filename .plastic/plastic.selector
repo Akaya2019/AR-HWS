@@ -1,0 +1,4 @@
+repository "ARProject@AliKaya029@cloud"
+  path "/"
+    br "/main"
+    co "/main"
